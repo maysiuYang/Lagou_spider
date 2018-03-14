@@ -1,0 +1,26 @@
+
+------拉勾网下数据分析师岗位的导航------
+
+全国站>设计>用户研究>数据分析师
+
+
+------爬虫代码思路------
+
+从拉勾网首页进入网站 --> 利用time.sleep(30)函数暂停30秒 --> 手动输入账号/密码进行登录 --> 进入"数据分析师"导航第一页 --> 构造翻页url --> 抓取数据
+
+
+------相关网址------
+
+拉勾网首页：
+
+https://www.lagou.com/
+
+"数据分析师"导航第一页url：
+
+https://www.lagou.com/zhaopin/shujufenxishi/
+
+
+------chrome driver的下载地址------
+
+https://chromedriver.storage.googleapis.com/2.10/chromedriver_win32.zip
+
